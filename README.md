@@ -1,2 +1,3 @@
 # JAVA-project
-Projet d'achat vente de service entre membres
+Projet universitaire L2
+but : Achat vente de service entre membres
